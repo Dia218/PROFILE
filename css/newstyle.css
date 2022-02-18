@@ -1,0 +1,35 @@
+.numbername{
+    font-family: 'Single Day', cursive;
+}
+.bgImg{
+    border: 3px solid #E6E6E6;
+    background-position: center;
+}
+.title{
+    font-family: 'Nanum Pen Script', cursive;
+}
+.dice{
+    display: flex;
+    justify-content: space-between;
+}
+.icontext{
+    font-family: 'Ubuntu', sans-serif;
+}
+.main{
+    font-family: 'Jua', sans-serif;
+}
+.thanks{
+    font-family: 'Single Day', cursive;
+}
+.end{
+    font-family: 'Shizuru', cursive;
+}
+.end-content{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.try{
+    font-size: 30px;
+}
